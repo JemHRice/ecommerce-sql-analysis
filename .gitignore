@@ -32,7 +32,7 @@ Thumbs.db
 *.ipynb_checkpoints
 
 # Data (allow ecommerce_data.csv, ignore others)
-!data/ecommerce_data.csv
 *.csv
 *.xlsx
 *.xls
+!data/ecommerce_data.csv
